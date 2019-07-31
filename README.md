@@ -3,7 +3,7 @@
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
 - Add your clickable username here. It should point to your GitHub account. 
-
+- [Kamana Irankudnda Eliane](https://github.com/Eliane-5)
 ## Project setup instructions
 To start using this project use the following commands:
 
